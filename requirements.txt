@@ -1,0 +1,23 @@
+# Hugging Face pretrained-model benchmarking (Week 6)
+# Install from the repository root with:
+#   python -m pip install -r requirements.txt
+
+# Model loading and inference
+torch
+transformers
+
+# SST-2 dataset loading
+datasets
+
+# Evaluation and error analysis
+scikit-learn
+pandas
+numpy
+
+# Charts and reporting
+matplotlib
+
+# Running main.ipynb
+jupyter
+
+# Automated tests (pytest) are deferred and not required to run the project.
